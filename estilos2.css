@@ -1,0 +1,13 @@
+a:link {
+    margin: 1em 0;
+    color: #CC0000;
+    float: left;
+    clear: left;
+    padding: 2px;
+  }
+  a:hover {
+    text-decoration: none;
+    background-color: #CC0000;
+    color: #FFF;
+  }
+  
