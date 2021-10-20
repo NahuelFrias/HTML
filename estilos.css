@@ -1,0 +1,19 @@
+body{
+    background-color: crimson;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    background-color: darkblue;
+}
