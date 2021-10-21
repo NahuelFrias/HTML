@@ -1,0 +1,56 @@
+#titulo {
+    color: rgb(18, 209, 152);
+}
+
+#subtitulo {
+    color: rgb(8, 89, 211);
+}
+
+#destacado {
+    color: rgb(233, 80, 10);
+}
+
+#destacado2 {
+    color: rgba(219, 169, 4, 0.856);
+}
+
+.link:link {
+    color: orangered;
+}
+
+.tabla {
+    border-collapse: collapse;
+}
+
+.tabla th,
+.tabla td {
+    border: 1px solid rgb(34, 36, 175);
+}
+
+.especial {
+    color: rgb(255, 217, 1);
+}
+
+.verde {
+    color: yellowgreen;
+}
+
+.amarillo {
+    color: rgb(255, 217, 0);
+}
+
+.rojo{
+    color: red;
+}
+
+#adicional{
+    color:rgb(58, 192, 40);
+}
+
+#especial{
+    color: pink;
+}
+
+#nuevoLink:link{
+    color: rebeccapurple;
+}
