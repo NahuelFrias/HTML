@@ -1,0 +1,14 @@
+input#exampleInputEmail1{
+    width: 260px;
+}
+
+input#exampleInputPassword1{
+    width: 260px;
+}
+
+section{
+    border: 1px solid black ;
+    width: 500px;
+    margin: 1%;
+    padding:1%
+}
